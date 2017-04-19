@@ -39,6 +39,6 @@ setup(
     packages=find_packages(exclude=['contrib', 'docs', 'tests']),
     py_modules=['jaeum-modifier'],
 
-    install_requires=['hangulize'],
+    install_requires=['hangulize<=0.0.7'],
 )
 
