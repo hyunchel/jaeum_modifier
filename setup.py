@@ -9,7 +9,7 @@ with open(path.join(root, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='jaeum-modifier',
-    version='0.0.1',
+    version='0.0.1a0',
 
     description='Hangul Jaeum Modifier',
     long_description=long_description,
