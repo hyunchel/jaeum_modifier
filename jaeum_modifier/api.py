@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 jaeum_modifier.api
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 This module implements the API for jaeum_modifier.
 

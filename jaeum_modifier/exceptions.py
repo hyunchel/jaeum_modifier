@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 jaeum_modifier.exceptions
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This module implements custom exceptions.
 """

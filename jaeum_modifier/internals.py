@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 jaeum_modifier.internals
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 This module implements internal utilities that utilizes third party library(Hangulize).
 """
