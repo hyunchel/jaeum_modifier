@@ -1,6 +1,11 @@
 `Jaeum Modifier`_
 =================
 
+.. image:: https://readthedocs.org/projects/jaeum-modifier/badge/?version=latest
+    :target: http://jaeum-modifier.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
+
+
 A simple module that injects a JJ(u'ㅉ') or BB(u'ㅃ') to the given Korean word or sentence.
 
 For example:
@@ -34,8 +39,5 @@ __ https://github.com/hyunchel/jaeum_modifier
 
 Documentation
 -------------
-Please refer to
-  https://github.com/hyunchel/jaeum_modifier
-  
-      .. image:: https://readthedocs.org// / 
-
+Lastest Version
+    https://jaeum-modifier.readthedocs.io
