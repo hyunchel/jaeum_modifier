@@ -5,16 +5,15 @@
     :target: http://jaeum-modifier.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
-
-A simple module that injects a JJ(u'ㅉ') or BB(u'ㅃ') to the given Korean word or sentence.
-
-For example:
+`jaeum_modifier` module modifies a single Jaeum of a Hangul syllable among the given Hangul word or sentence.
 
 .. code-block:: python
 
-    from jaeum_modifier import set_by_index
+    from jaeum_modifier import modify
     message = u'안녕하세요'
-    print(set_by_index(message, index=1)) # 안쪙하세요
+    print(modify(message, index=1, jaeum=u'ㅉ')) # 안쪙하세요
+
+``jaeum_modifier.modify`` replaces Jaeum of the indexed syllable to the given Jaeum(``JJ(u'ㅉ')``).
 
 
 Installation
@@ -23,7 +22,7 @@ Jaeum Modifier can be installed via ``pip``:
 
 .. code-block:: console
 
-    $ pip install jaeum_modifier
+    $ pip install jaeum-modifier
 
 You can also install from `Github repository`__:
 

@@ -43,7 +43,7 @@ Jaeum Modifier can be installed via ``pip``:
 
 .. code-block:: console
 
-    $ pip install jaeum_modifier
+    $ pip install jaeum-modifier
 
 You can also install from `Github repository`__:
 
