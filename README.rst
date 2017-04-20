@@ -1,6 +1,7 @@
 `Jaeum Modifier`_
 =================
-
+.. image:: https://travis-ci.org/hyunchel/jaeum_modifier.svg?branch=master
+    :target: https://travis-ci.org/hyunchel/jaeum_modifier
 .. image:: https://readthedocs.org/projects/jaeum-modifier/badge/?version=latest
     :target: http://jaeum-modifier.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
